@@ -6,7 +6,7 @@
 ### Technical Requirements
 
 - You may do the work in the same files that we used for our class demo today. Because the originals are saved in GitHub, there is no worry to overwriting them.
-- Using a total of five JavaScript 'prompt' or 'confirm' statements along the lines of our class demo on Monday, have a user answer six questions.
+- Using a total of six JavaScript 'prompt' or 'confirm' statements along the lines of our class demo on Monday, have a user answer six questions.
 - The user's response to each question should be stored in a separate variable. Name your variables carefully.
 - Using these responses, return an alert to the user that concatenates their response into some kind of reply like we did in class.
 - In addition, for each response, create a console.log() message that indicates the nature of the question and the user's reponse, as we did in class.
