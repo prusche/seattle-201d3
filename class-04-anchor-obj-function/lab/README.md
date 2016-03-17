@@ -12,12 +12,12 @@ For this lab we will be adding a few things to the work we've done so far. Use t
 - As a prospective jobseeker, I want to use a tasteful color scheme that demonstrates my sensibility toward design plus provides readable contrast between the text and the background.
 
 ### Bonus
-- As a deveoper I want collect a list of all of the users top five favorite games, and store them in an array.
+- As a deveoper I want to add a seventh question to collect a list of all of the users top five favorite games, and store them in an array.
  - **Hint:** look up the _Array_ method `push` on mdn.
-### User Stories
 
+### User Stories
 - As a developer, I want the question to my guessing game that takes numeric input, and indicates to the user whether the guess is 'too high' or 'too low', and gives the user multiple opportunities to get the correct answer.
-- As a developer, I want to add a seventh question that accepts multiple possible correct answers that are stored in an array.
+- **Bonus:** As a developer, I want to add a seventh question that collects a list of all the users top five favorite games.
 - As a developer, I want to refactor my JS code to make it more D.R.Y.
 - As a developer, I want to keep a tally of correct answers given by the user, and at the end of the game, tell them how well they did, e.g. "You got 4 out of 5 questions correct! Good job!"
 
