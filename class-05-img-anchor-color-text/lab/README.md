@@ -9,7 +9,7 @@ Here are some things to keep in mind:
 * Create a new branch for each code problem, and merge that branch into *master* when it is completed. Don't forget to pull the new master branch from GitHub into your local master branch each time.
 
 ---
-#### Create and clone a new GitHub repo named lab-feb-15
+#### Create and clone a new GitHub repo named **function-pratice**
 You should not need instructions for this by now. Be sure to create it withe a README file, and be sure to put it in the root level of your ~/CF/201 directory.
 
 ---
