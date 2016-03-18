@@ -28,7 +28,7 @@
 ```   
 
 **app.js**
-```    
+``` javascript
 // 201
 // 5-wed-lecture code demo
 
