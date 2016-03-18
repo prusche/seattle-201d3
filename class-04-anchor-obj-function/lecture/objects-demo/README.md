@@ -15,7 +15,7 @@
 ```   
 
 **app.js**
-``` app.js   
+``` javascript
 console.log('you have javascript');
 
 // this is an empty array - it is also an array literal
