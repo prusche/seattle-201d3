@@ -17,7 +17,7 @@ Array Methods Demo
 ```   
 
 **app.js**
-```    
+``` javascript
 // empty array
 var numberArray = [];
 console.log('numberArray: ', numberArray);
