@@ -9,12 +9,12 @@ Here are some things to keep in mind:
 * Create a new branch for each code problem, and merge that branch into *master* when it is completed. Don't forget to pull the new master branch from GitHub into your local master branch each time.
 
 ---
-#### Create and clone a new GitHub repo named **function-pratice**
-You should not need instructions for this by now. Be sure to create it withe a README file, and be sure to put it in the root level of your ~/CF/201 directory.
+#### Create and clone a new GitHub repo named **function-practice**
+You should not need instructions for this by now. Be sure to create it with a README file, and be sure to put it in the root level of your ~/CF/201 directory.
 
 ---
 #### HTML and JS setup
-Create a index.html file (with all of the standard HTML structure like *doctype* and *title* and *head* and *body*) and put in the same \<body> [code](https://github.com/codefellows/seattle-201d6/blob/master/week-1/class-05/code-samples-for-lab.html) that we used on Friday. Place the content inside the \<script> tags in this document into an app.js file and then get the HTML and JS files connected to one another.
+Create an index.html file (with all of the standard HTML structure like *doctype* and *title* and *head* and *body*) and put in the same \<body> [code](https://github.com/codefellows/seattle-201d6/blob/master/week-1/class-05/code-samples-for-lab.html) that we used on Thursday. Place the content inside the \<script> tags in this document into an app.js file and then get the HTML and JS files connected to one another.
 
 ---
 #### Problem 1
