@@ -35,7 +35,7 @@ Note: Before starting these steps, make sure that both of your repositories are 
 
 - DON'T FORGET TO DO YOUR WORK ON BRANCHES!
 
-- There are some code examples here in our class repo: https://github.com/codefellows/seattle-201d6/tree/master/week-1/class-05
+- There are some code examples here in our class repo: [example code](./example)
 
 - Simplify the guessing game HTML, in preporation for the next step. For now, just make the basic HTML shell of a guessing-game.html page (empty <body> and <head> inside of a <html> tag), and put in its body a link back to the profile page: <a href="index.html">My Profile Page (or whatever text you want)</a>. a-c-p
 
