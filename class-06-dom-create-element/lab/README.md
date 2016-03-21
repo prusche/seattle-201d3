@@ -1,6 +1,6 @@
 Today will be your first exercise in pair programming. You will be assigned to work with a partner, and the two of you will work on and extend each other's About Me guessing game projects. Be sure to READ and follow these instructions very carefully.
 Since you have 4 hours in which to edit two projects, you'll need to work efficiently and limit your work to two hours on a single person's project. Time management is critical.
-
+s
 ### Pair Programming Basics
 
 - In pair programming there are two developers working on a single body of code on a single computer. One member of the pair is the driver, and this person will be the one doing all of the typing actual work on the laptop. The other member of the pair is the navigator, and this person will work with only their voice and their thoughts.
@@ -25,7 +25,7 @@ Note: Before starting these steps, make sure that both of your repositories are 
 
 - Inside of the driver's main work directory on their laptop, make a directory with your partner’s name and then move (cd) into it. From there, enter the command 'git clone the-https-link-you-copied'. That will create a local version of the forked repo on the driver's laptop.
 
-- 'cd' into that directory and enter 'subl .' in the terminal to open all of the files in Sublime Text.
+- 'cd' into that directory and enter 'atom .' in the terminal to open all of the files in Atom.
 
 - Start working on the code!
 
