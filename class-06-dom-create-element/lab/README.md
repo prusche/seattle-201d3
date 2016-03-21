@@ -37,7 +37,7 @@ Note: Before starting these steps, make sure that both of your repositories are 
 
 - There are some code examples here in our class repo: [example code](./example)
 
-- Simplify the guessing game HTML, in preporation for the next step. For now, just make the basic HTML shell of a guessing-game.html page (empty <body> and <head> inside of a <html> tag), and put in its body a link back to the profile page: <a href="index.html">My Profile Page (or whatever text you want)</a>. a-c-p
+- Create a new html file for the guessing game, in preporation for the next step. For now, just make the basic HTML shell of a guessing-game.html page (empty <body> and <head> inside of a <html> tag), and put in its body a link back to the profile page: `<a href="index.html">` My Profile Page (or whatever text you want)</a>. a-c-p
 
 - Move logic into functions: Note: depending on the progress made toward stretch goals this week, this may or may not be easily workable. As an instructor or TA for guidance if you are not sure. Last week, we learned about functions, and today we'll move the logic for the individual questions into separate functions, and call those functions to initiate the game. In its most basic sense, this is pretty straightforward: 'wrap' the logic and variables for a given question with function someFuncNameYouChoose() { at the beginning and a closing curly brace } at the end. To make the function execute, just call it afterwards: someFuncNameYouChoose(); Take a look at the sample in the repo. After completing this step the game should behave exactly as it did before. a-c-p
 
