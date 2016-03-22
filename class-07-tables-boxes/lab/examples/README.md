@@ -1,11 +1,6 @@
 PIZZA 3000 Example Code
 =======================
 
-
-**html**
-```    
-```   
-
 **index.html**
 ``` html   
 <!DOCTYPE html>
