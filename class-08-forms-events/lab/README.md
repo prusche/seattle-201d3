@@ -12,7 +12,7 @@
  - As a user, I want pizza sales data represented in tables rather than lists
 
 ### Technical Requirements
- - New repository properly set up with scaffolding and README, and cloned to local machine
+ - a Unique repository (no other projects in this repo) properly set up with scaffolding and README, and cloned to local machine
  - Working on a non-master branch, with regular commit history
  - Main page meets requirements of the problem domain
  - Stores are correctly rendering into a table to the data page
@@ -20,21 +20,19 @@
 - Duplicate code has been removed and DRY principles are evident
 - Working on a non-master branch for the day (at a minimum), with regular commit history
 
-### User Stories (Stretch)
- - As a user, I want to be able to add a new store to my webpage, so that I have the ability to work independently of my developer. This is a LARGE HUGE BIG stretch goal. There will be Forms and Events involved, which you are welcome to read ahead on and try to implement. We're not going to cover these in class until Thursday.
 
 ## New Store Data!
 
-### Ballard
+###First Hill
 
- | Time  | Min Pizza/hr  | Max Pizza/hr | Min Delivery/hr | Max Delivery/hr  |
- |---|---|---|---|---|
- | 8am-11am  | 0  | 4  | 0 | 4 |
- | 11am-2pm  | 0  | 7  | 0 | 4 |
- | 2pm-5pm  | 2  | 15  | 1 | 4 |
- | 5pm-8pm  | 15  | 35  | 3 | 8 |
- | 8pm-11pm  | 12  | 31  | 5 | 12 |
- | 11pm-2am  | 5  | 20  | 6 | 11 |   
+| Time  | Min Pizza/hr  | Max Pizza/hr | Min Delivery/hr | Max Delivery/hr  |
+|---|---|---|---|---|
+| 8am-11am  | 0  | 3  | 1 | 7 |
+| 11am-2pm  | 5  | 10  | 2 | 8 |
+| 2pm-5pm  | 2  | 13  | 1 | 7 |
+| 5pm-8pm  | 0  | 15  | 2 | 9 |
+| 8pm-11pm  | 1  | 3  | 4 | 12 |
+| 11pm-2am  | 8  | 15  | 6 | 16 |
 
 ###First Hill
 
