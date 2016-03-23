@@ -1,0 +1,41 @@
+div {
+  display: inline-block;
+  width: 200px;
+  height: 200px; 
+  margin-left: 20px;
+}
+
+#clear {
+  border-top: solid;
+  border-bottom: solid;
+  border-left: dashed;
+  border-right: dashed;
+}
+
+#salmon {
+  background-color: #ff7a7a;
+  border: dashed;
+}
+
+#green {
+  background-color: #7aff7a;
+  border: solid;
+  border-color: #7aff7a;
+}
+
+#purple {
+  background-color: #7a7aff;
+  border: solid;
+  width: 160px;
+  height: 160px;
+  padding: 20px;
+}
+
+#white {
+  display:block;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+
